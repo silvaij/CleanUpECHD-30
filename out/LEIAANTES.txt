@@ -1,0 +1,12 @@
+License - NooviCloudExperience.Ltda
+#####CleanUpECHD-30#########
+
+CleanUpECHD-30 funciona com três arquivos :
+
+1) "startapplication.bat" - Executável do programa
+
+2) "CleanUpECHD-30.jar" - núcleo da aplicação onde estão as classes java
+
+3) "app.properties" - Este arquivo deve ser editado conforme o modelo com
+a quantidade de dias (idade de arquivos que devem ser preservador) . Path do 
+diretório que será excluído o arquivos que deseja , o caminho deve con
